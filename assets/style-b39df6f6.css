@@ -109,7 +109,7 @@
   }
 
   #header .back {
-    background-image: url(./assets/back.svg);
+    background-image: url("./assets/back.svg");
     background-repeat: no-repeat;
     height: 24px;
     width: 30px;
@@ -173,7 +173,7 @@
   }
 
   .input-search {
-    background-image: url(./assets/magnifier.svg);
+    background-image: url("./assets/magnifier.svg");
     background-position: 5px center;
     background-repeat: no-repeat;
     padding-left: 35px;
@@ -361,7 +361,7 @@
   }
 
   .card-container {
-    background-image: url(./assets/mastercard.png);
+    background-image: url("./assets/mastercard.png");
     background-repeat: no-repeat;
     background-size: 27px 17px;
     padding-top: 26px;
@@ -421,19 +421,19 @@
   }
 
   .action-topup {
-    background-image: url(./assets/arrow-up.svg);
+    background-image: url("./assets/arrow-up.svg");
   }
 
   .action-send {
-    background-image: url(./assets/arrow-right.svg);
+    background-image: url("./assets/arrow-right.svg");
   }
 
   .action-add {
-    background-image: url(./assets/add.svg);
+    background-image: url("./assets/add.svg");
   }
 
   .action-exchange {
-    background-image: url(./assets/exchange.svg);
+    background-image: url("./assets/exchange.svg");
   }
 
   .action-label {
@@ -454,7 +454,7 @@
     display: flex;
     align-items: center;
     gap: 16px;
-    background-image: url(./assets/chevron-right.svg);
+    background-image: url("./assets/chevron-right.svg");
     background-position: right 10px center;
     background-repeat: no-repeat;
     padding: 15px 30px 15px 10px;
@@ -525,7 +525,7 @@
 
 @layer page {
   .recover-password {
-    background-image: url(./assets/lock.svg);
+    background-image: url("./assets/lock.svg");
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 30px;
@@ -533,7 +533,7 @@
   }
 
   .flag-us {
-    background-image: url(./assets/flag-us.svg);
+    background-image: url("./assets/flag-us.svg");
     background-repeat: no-repeat;
     background-position: center;
   }
